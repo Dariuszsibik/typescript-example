@@ -14,6 +14,7 @@ const obiektTestowy = {
 }
 
 obiekt1.metoda(obiektTestowy)
-obiekt1.zmianaStatus(1, Status.Czeka)
-obiekt1.zmianaRozmiaru(1, 'large')
-console.log(obiekt1, obiekt2);
+//obiekt1.zmianaStatus(1, 2)
+//obiekt1.zmianaRozmiaru(1, 'large');
+
+console.log(obiekt1, obiekt2)

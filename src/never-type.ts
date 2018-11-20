@@ -1,6 +1,6 @@
 const showError = (message: string) => {
     throw new Error(message);
-} // rzuca errora nie zwraca nic, typ never
+}; // rzuca errora nie zwraca nic, typ never
 
 const showErrors = () => {
     while(true) {
